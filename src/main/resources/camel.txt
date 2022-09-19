@@ -1,0 +1,15 @@
+--Apache Camel--
+
+Apache Camel, bilinen Kurumsal Entegrasyon Modellerine dayalı
+çok yönlü bir açık kaynaklı entegrasyon çerçevesidir. Hemen
+hemen tüm veri entegrasyon noktaları uygun Camel bileşenleri
+kullanılarak bağlanabilir. Camel veriyi hem tüketirken hem de
+üretirken farklı veri kaynakları ile birlikte bir arada
+kullanılabilir. Camel bir Java kütüphanesi şeklinde mevcut
+uygulamalara eklenebildiği gibi, çok kullanılan Spring gibi
+framework’lerle de çalışabilecek şekilde tasarlanmıştır ve
+Spring’in XML konfigurasyon dosyasında veri entegrasyonu için
+gerekli konfigurasyon standart bileşenlerle hiç kod yazmadan
+yapılandırılabilir. Camel veri çözümleri konusunda uygulama
+geliştiren çözüm üretecilerinin muhakkak değerlendirmeleri
+gereken önemli bir kaynaktır.
